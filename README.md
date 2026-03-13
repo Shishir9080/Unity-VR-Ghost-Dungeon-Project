@@ -33,3 +33,14 @@ Add screenshots of:
 3. Load the main scene
 4. Connect VR headset/controllers
 5. Press Play
+## Project Architecture
+
+The VR system uses Unity XR Interaction Toolkit.
+
+Core systems include:
+
+- **XR Rig** – Player camera and tracking
+- **Teleportation System** – Movement using ray interaction
+- **Ghost AI** – Enemy behaviour logic
+- **Score Manager** – Tracks player performance
+- **Timer System** – Controls round duration
