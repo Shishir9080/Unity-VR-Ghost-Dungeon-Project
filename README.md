@@ -28,15 +28,7 @@ https://youtu.be/pybKMNb9rUA
 - C#
 - XR Interaction Toolkit
 - VR Controllers
-
-## Screenshots
-
-Add screenshots of:
-- Dungeon gameplay
-- Ghost combat
-- Teleportation system
-- Score UI
-
+- 
 ## How to Run
 
 1. Clone the repository
